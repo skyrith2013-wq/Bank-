@@ -23,9 +23,9 @@ If the file does not exist, the program will create it automatically.
 
 Use the following credentials to test login:
 
-* **Account Number:** 123456789123
-* **PIN:** 237899
-* **Mobile Number:** 9876543210
+* **Account Number:** 226991532315
+* **PIN:** 5566
+* **Mobile Number:** 1234567890
 
 Or you can create your own account through the program.
 
